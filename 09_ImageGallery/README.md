@@ -14,10 +14,10 @@ A simple and elegant Image Search App built with React that allows users to sear
 Here are some screenshots of the app in action:
 
 <div align="center">
-  <img src="./Preview/one.png" alt="Example Image 1" width="500px" style="margin: 10px 0; border-radius: 8px;">
-  <img src="./Preview/two.png" alt="Example Image 2" width="500px" style="margin: 10px 0; border-radius: 8px;">
-  <img src="./Preview/three.png" alt="Example Image 3" width="500px" style="margin: 10px 0; border-radius: 8px;">
-  <img src="./Preview/four.png" alt="Example Image 4" width="500px" style="margin: 10px 0; border-radius: 8px;">
+  <img src="./Preview/one.png" alt="Example Image 1"  style="margin: 10px 0; border-radius: 8px;">
+  <img src="./Preview/two.png" alt="Example Image 2"  style="margin: 10px 0; border-radius: 8px;">
+  <img src="./Preview/three.png" alt="Example Image 3"  style="margin: 10px 0; border-radius: 8px;">
+  <img src="./Preview/four.png" alt="Example Image 4"  style="margin: 10px 0; border-radius: 8px;">
 </div>
 
 ## ⚙️ Installation
