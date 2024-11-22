@@ -15,7 +15,7 @@ A simple and visually appealing countdown timer built with **React**. watch the 
 
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/SHAHUL-AHMED-77/React-Projects.git
+   git clone https://github.com/SyedShahulAhmed/React-Projects.git
    cd countdown-timer
    ```
 

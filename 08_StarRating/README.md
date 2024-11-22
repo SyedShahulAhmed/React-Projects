@@ -21,7 +21,7 @@ This is a React app that allows users to rate with stars, and it shows an emoji 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SHAHUL-AHMED-77/React-Projects.git
+   git clone https://github.com/SyedShahulAhmed/React-Projects.git
    ```
 
 2. Navigate to the project folder:

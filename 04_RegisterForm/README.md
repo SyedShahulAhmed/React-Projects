@@ -21,7 +21,7 @@ Welcome to the **Login & Signup** component built with React! This component pro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SHAHUL-AHMED-77/React-Projects.git
+   git clone https://github.com/SyedShahulAhmed/React-Projects.git
    ```
 2. Navigate into the project folder:
    ```bash

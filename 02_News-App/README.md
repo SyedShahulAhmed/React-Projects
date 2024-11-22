@@ -14,7 +14,7 @@ A simple news application built with React that fetches the latest articles from
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/SHAHUL-AHMED-77/React-Projects.git
+    git clone https://github.com/SyedShahulAhmed/React-Projects.git
     ```
 
 2. Install dependencies:

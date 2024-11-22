@@ -33,7 +33,7 @@ Here are some screenshots of TaskFlow Manager in action:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/SHAHUL-AHMED-77/TaskFlow-Manager.git
+   git clone https://github.com/SyedShahulAhmed/React-Projects.git
    cd TaskFlow-Manager
    ```
 

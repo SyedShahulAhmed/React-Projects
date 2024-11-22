@@ -24,7 +24,7 @@ After a game is completed, you can click the **Reset** button to start a new gam
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SHAHUL-AHMED-77/React-Projects.git
+   git clone https://github.com/SyedShahulAhmed/React-Projects.git
    ```
 2. Navigate into the project folder:
    ```bash
