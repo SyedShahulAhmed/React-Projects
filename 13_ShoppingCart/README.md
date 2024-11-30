@@ -51,11 +51,11 @@ Ensure you have the following installed on your system:
 ## 📸 **Screenshots**  
 
 ### **🏠 Homepage**  
-![Homepage Screenshot](/Preview/img1.png)  
+![Homepage Screenshot](./src/Preview/img1.png)  
 
 ### **🛍️ Item Overview**  
-![Cart Page Screenshot](/Preview/img2.png)  
+![Cart Page Screenshot](./src/Preview/img2.png)  
 
 ### **📱 Mobile-Friendly Design**  
-![Mobile Design Screenshot](/Preview/img3.png)  
+![Mobile Design Screenshot](./src/Preview/img3.png)  
 
