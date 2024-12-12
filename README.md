@@ -2,6 +2,8 @@
 
 Welcome to my collection of **React projects**! Each project demonstrates a unique aspect of React development, from UI components to full-fledged applications.  
 
+🔗 **Explore detailed information about these projects on** [**🌐ReactXhibit**](https://reactxhibit.example.com) **for a closer look!**  
+
 ---  
 
 ## 📋 Project List  
